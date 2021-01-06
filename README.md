@@ -1,1 +1,1 @@
-<head align="center">![Metrics](https://github.com/douglastofoli/douglastofoli/blob/main/github-metrics.svg)</head>
+![Metrics](https://github.com/douglastofoli/douglastofoli/blob/main/github-metrics.svg)
