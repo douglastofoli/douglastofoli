@@ -15,7 +15,7 @@ jobs:
           config_padding: 6%
           config_animations: yes
           
-          template: terminal
+          template: repository
           
           # plugins
           plugin_isocalendar: yes  
