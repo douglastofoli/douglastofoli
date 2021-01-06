@@ -12,7 +12,7 @@ jobs:
         with:
           # configs  
           config_timezone: America/Sao_Paulo
-          config_padding: 10%
+          config_padding: 50%
         
           # plugins
           plugin_isocalendar: yes  
