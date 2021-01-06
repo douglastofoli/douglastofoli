@@ -10,20 +10,24 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          # configs  
           config_timezone: America/Sao_Paulo
           config_padding: 6%
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # ... other options
+        
+          # plugins
           plugin_isocalendar: yes  
+            
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip  
+          
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-  
+          plugin_habits_charts: yes  
+          
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
