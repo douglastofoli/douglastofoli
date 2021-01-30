@@ -7,15 +7,15 @@
 
 <br>
 
-- 🛠️ I am currently working on **private projects**
+- 🛠️  I am currently working on **private projects**
 
-- 💡 I’m currently learning **Elixir**
+- 💡  I’m currently learning **Elixir**
 
-- ✉️ How to reach me **contact@dougrt.dev**
+- ✉️  How to reach me **contact@dougrt.dev**
 
 <br>
 
-#### 💻 I Work With
+#### 💻  I Work With
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <br>
 
- #### ⭐ Statistics and Languages
+ #### ⭐  Statistics and Languages
 
  <p align="center">
     <img src="https://github-readme-stats.douglastofoli.vercel.app/api?username=douglastofoli&count_private=true&show_icons=true" alt="Statistics" width="420"/> 
