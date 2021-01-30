@@ -47,7 +47,7 @@
 <br>
 
 <div align="center">
-<i>My social media:</i>
+<i>My social networks:</i>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/douglastofoli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
