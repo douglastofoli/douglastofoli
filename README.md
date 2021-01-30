@@ -2,7 +2,13 @@
 <h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglastofoli" alt="douglastofoli" /> </p>
 
-#### 💻 Stack I Work With
+- 🛠️ I am currently working on **private projects**
+
+- 💡 I’m currently learning **Elixir**
+
+- ✉️ How to reach me **contact@dougrt.dev**
+
+#### 💻 I Work With
 
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
@@ -17,7 +23,7 @@
 <img src="https://img.shields.io/badge/elixir-674773.svg?&style=for-the-badge&logo=elixir&logoColor=white" height="25"/>
 </p>
 
- #### ⭐  Statistics and Languages
+ #### ⭐ Statistics and Languages
 
  <p align="center">
     <img src="https://github-readme-stats.douglastofoli.vercel.app/api?username=douglastofoli&count_private=true&show_icons=true" alt="Statistics" width="420"/> 
