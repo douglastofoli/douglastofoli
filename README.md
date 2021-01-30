@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Tofoli</h1>
-<h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="18"/> </h3>
+<h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglastofoli" alt="douglastofoli" /> </p>
 
 #### 💻 Stack I Work With
