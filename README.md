@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Douglas Tofoli</h1>
 <h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglastofoli" alt="douglastofoli" /> </p>
 
 <br>
@@ -10,9 +13,10 @@
 
 - ✉️ How to reach me **contact@dougrt.dev**
 
+<br>
+
 #### 💻 I Work With
 
-<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
@@ -27,14 +31,15 @@
 <img src="https://img.shields.io/badge/elixir-674773.svg?&style=for-the-badge&logo=elixir&logoColor=white" height="25"/>
 </p>
 
- #### ⭐ Statistics and Languages
 <br>
+
+ #### ⭐ Statistics and Languages
+
  <p align="center">
     <img src="https://github-readme-stats.douglastofoli.vercel.app/api?username=douglastofoli&count_private=true&show_icons=true" alt="Statistics" width="420"/> 
     <img src="https://github-readme-stats.douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact" alt="Languages" height="165" />
  </p>
 
-<br>
 <br>
 
 ---
