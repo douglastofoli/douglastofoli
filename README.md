@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Tofoli</h1>
-<h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="14"/> </h3>
+<h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="18"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglastofoli" alt="douglastofoli" /> </p>
 
 #### 💻 Stack I Work With
@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/typescript-007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
