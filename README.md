@@ -9,7 +9,7 @@
 
 - 🛠️ I am currently working on **private projects**
 
-- 💡 I’m currently learning **Elixir**
+- 💡 I am currently learning **Elixir**
 
 - ✉️ How to reach me **contact@dougrt.dev**
 
