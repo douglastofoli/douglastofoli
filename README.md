@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/typescript-007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/graphql-DE33A6.svg?&style=for-the-badge&logo=graphql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/reactnative-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/elixir-674773.svg?&style=for-the-badge&logo=elixir&logoColor=white" height="25"/>
