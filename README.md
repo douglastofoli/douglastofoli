@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/postgresql-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/mongodb-3FA037.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<!-- <img src="https://img.shields.io/badge/mongodb-3FA037.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
