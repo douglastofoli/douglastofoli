@@ -59,3 +59,5 @@
 <a href="https://www.facebook.com/tofoli.douglas" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.facebook.com/douglastofoli" target="_blank"><img src="https://img.shields.io/badge/-Twitter-55ADEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
+
+![Snake animation](https://github.com/douglastofoli/douglastofoli/blob/output/github-contribution-grid-snake.svg)
