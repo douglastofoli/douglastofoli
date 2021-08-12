@@ -11,7 +11,7 @@
 
 - 💡 I am currently learning **Elixir**
 
-- ✉️ How to reach me **contact@dougrt.dev**
+- ✉️ How to reach me **contact@douglastofoli.dev**
 
 <br>
 
