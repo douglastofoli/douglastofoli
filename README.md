@@ -3,9 +3,9 @@
 
 <br>
 
-- 🛠️ I am currently working on **private projects**
+- 🛠️ I am currently working on **personal projects**. See ![MyTag Backend](https://github.com/douglastofoli/my-tag-backend) and ![MyTag Frontend](https://github.com/douglastofoli/my-tag-frontend)
 
-- 💡 I am currently learning **Elixir**
+- 💡 I am currently learning **Elixir** and **GraphQl**
 
 - ✉️ How to reach me **contact@douglastofoli.dev**
 
