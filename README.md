@@ -1,5 +1,5 @@
 <h2>
-  <p align="center">Welcome!&nbsp;<img align="center" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" height="80px"/></p>
+  <p align="center">Welcome!&nbsp;<img align="center" src="https://github.com/douglastofoli/douglastofoli/blob/main/pikachu.png" height="80px"/></p>
 </h2>
 
 <h3 align="center">My name is Douglas and I am Web Developer <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> 
