@@ -1,5 +1,5 @@
 <h1>
-  <p align="center">Welcome!&nbsp;&nbsp;&nbsp;<img align="center" src="https://assets.pokemon.com/assets/cms2/img/pokedex /full/025.png" height="80px"/></p>
+  <p align="center">Welcome!&nbsp;&nbsp;&nbsp;<img align="center" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" height="80px"/></p>
 </h1>
 
 <h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
