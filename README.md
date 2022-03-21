@@ -1,4 +1,4 @@
-<h1 align="center">Hello There!</h1><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png" />
+<h1 align="center">Hello There!</h1><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png" width="40px" height="40px" />
 <h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
 
 <br>
