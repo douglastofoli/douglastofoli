@@ -1,5 +1,5 @@
-<div>
-  <h1 align="center">Hello There!</h1>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <h1 align="center">Welcome!</h1>
   <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png" width="50px" height="50px" />
 </div>
 <h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
