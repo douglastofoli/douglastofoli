@@ -2,11 +2,12 @@
   <p align="center">Welcome!&nbsp;&nbsp;<img align="center" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" height="78px"/></p>
 </h1>
 
-<h3 align="center">A developer who loves what he does <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> </h3>
+<h3 align="center">My name is Douglas and I am Web Developer <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> 
+</h3>
 
 <br>
 
-- 🛠️ I am currently working on **personal projects**. See ![MyTag Backend](https://github.com/douglastofoli/my-tag-backend) and ![MyTag Frontend](https://github.com/douglastofoli/my-tag-frontend)
+- 🛠️ I am currently working on **personal projects**.
 
 - 💡 I am currently learning **Elixir** and **GraphQl**
 
