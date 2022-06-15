@@ -7,7 +7,7 @@
 
 <br>
 
-- 🛠️ I am currently working at **Solfácil ☀️**.
+- 🛠️ I am currently working at **Solfácil** ☀️.
 
 - 💡 I am currently learning **Elixir** and **GraphQl**
 
