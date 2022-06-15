@@ -2,12 +2,12 @@
   <p align="center">Welcome!&nbsp;<img align="center" src="https://github.com/douglastofoli/douglastofoli/blob/main/pikachu.png" height="80px"/></p>
 </h2>
 
-<h3 align="center">My name is Douglas and I am a Web Developer <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> 
+<h3 align="center">My name is Douglas and I am a Elixir Backend Developer <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> 
 </h3>
 
 <br>
 
-- 🛠️ I am currently working on **personal projects**.
+- 🛠️ I am currently working at **Solfácil ☀️**.
 
 - 💡 I am currently learning **Elixir** and **GraphQl**
 
