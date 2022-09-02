@@ -62,9 +62,4 @@
 
 <br>
 
-
-<-- ![Snake animation](https://github.com/douglastofoli/douglastofoli/blob/output/github-contribution-grid-snake.svg) --!>
-
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglastofoli" alt="douglastofoli" /> </p>
