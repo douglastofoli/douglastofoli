@@ -44,8 +44,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=douglastofoli&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Wakatime" height="165" />
  </p>
 
-
-
 <br>
 
 ---
