@@ -1,8 +1,15 @@
 <h2>
-  <p align="center">Welcome!&nbsp;&nbsp;<img align="center" src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png" height="80px"/></p>
+  <p align="center">
+    Welcome!&nbsp;&nbsp;
+    <img align="center"
+      src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png" 
+      height="80px"
+      alt="Pikachu said welcome!"
+    />
+  </p>
 </h2>
 
-<h3 align="center">My name is Douglas and I am a Elixir Backend Developer &nbsp; <img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/web-development.svg" width="24"/> 
+<h3 align="center">My name is Douglas and I am a Elixir Backend Developer &nbsp; <img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/web-development.svg" width="24" alt="It's just an worker person icon!"/> 
 </h3>
 
 <br>
