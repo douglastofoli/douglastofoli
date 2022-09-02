@@ -1,15 +1,15 @@
 <h2>
-  <p align="center">Welcome!&nbsp;<img align="center" src="https://github.com/douglastofoli/douglastofoli/blob/main/pikachu.png" height="80px"/></p>
+  <p align="center">Welcome!&nbsp;&nbsp;<img align="center" src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png" height="80px"/></p>
 </h2>
 
-<h3 align="center">My name is Douglas and I am a Elixir Backend Developer <img src="https://github.com/douglastofoli/douglastofoli/blob/main/web-development.svg" width="24"/> 
+<h3 align="center">My name is Douglas and I am a Elixir Backend Developer &nbsp; <img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/web-development.svg" width="24"/> 
 </h3>
 
 <br>
 
 - 🛠️ I am currently working at **Solfácil** ☀️
 
-- 💡 I am currently learning **Elixir** and **GraphQl**
+- 💡 I am learning **Elixir** and **GraphQl**
 
 - ✉️ How to reach me **contact@douglastofoli.dev**
 
@@ -24,10 +24,7 @@
   <img src="https://img.shields.io/badge/postgresql-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/javascript-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/typescript-007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/reactnative-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/jenkins-D33834.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="25"/>
 </p>
 
 <br>
