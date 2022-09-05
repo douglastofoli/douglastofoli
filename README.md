@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats-one-rose-40.vercel.app/api?username=douglastofoli&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Statistics" width="420"/> 
   <img src="https://github-readme-stats-one-rose-40.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&count_private=true&hide=css,html,blade&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Languages" height="165" />
-  <img src="https://github-readme-stats-one-rose-40.vercel.app/api/wakatime?username=@douglastofoli&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Wakatime" width="420" />
+  <!---  <img src="https://github-readme-stats-one-rose-40.vercel.app/api/wakatime?username=@douglastofoli&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Wakatime" width="420" /> -->
 </p>
 
 <br>
