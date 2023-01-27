@@ -16,9 +16,9 @@
 
 - 🛠️ I am currently working at **Solfácil** ☀️
 
-- 💡 I am learning **Elixir** and **GraphQl**
+- 💡 I am learning **Elixir** and **Python**
 
-- ✉️ How to reach me **contact@douglastofoli.dev**
+- ✉️ How to contact me **![LinkedIn](https://www.linkedin.com/in/douglastofoli/)**
 
 <br>
 
