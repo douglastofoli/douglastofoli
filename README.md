@@ -18,7 +18,7 @@
 
 - 💡 I am learning **Elixir** and **Python**
 
-- ✉️ How to contact me: <a href="https://www.linkedin.com/in/douglastofoli/" target="_noblank"><strong>LinkedIn</strong></a>
+- ✉️ How to contact me: <a href="https://www.linkedin.com/in/douglastofoli/" target="_blank"><b>LinkedIn</b></a>
 
 <br>
 
