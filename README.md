@@ -37,7 +37,7 @@
 
 #### ⭐ Statistics and Languages
 
-<p style="display: flex; justify-content: center;">
+<p style="display: flex;">
   <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api?username=douglastofoli&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Statistics" vspace="5" hspace="5"/> 
   <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&count_private=true&hide=css,html,blade&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Languages" vspace="5" hspace="5"/>
 </p>
