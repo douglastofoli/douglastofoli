@@ -9,8 +9,7 @@
   </p>
 </h2>
 
-<h3 align="center">My name is Douglas and I am a Elixir Backend Developer &nbsp; <img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/web-development.svg" width="24" alt="It's just an worker person icon!"/> 
-</h3>
+<h3 align="center">My name is Douglas and I am a Software Engineer.</h3>
 
 <br>
 
