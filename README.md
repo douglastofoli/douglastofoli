@@ -38,8 +38,8 @@
 #### ⭐ Statistics and Languages
 
 <p align="center" style="width: 100%; height: auto;">
-  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api?username=douglastofoli&count_private=false&show_icons=true&theme=dracula" alt="Statistics"/> 
-  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&count_private=false&hide=css,html,blade&theme=dracula" alt="Languages"/>
+  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api?username=douglastofoli&show_icons=true&theme=dracula" alt="Statistics"/> 
+  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&hide=css,html,blade&theme=dracula" alt="Languages"/>
 </p>
 
 <br>
