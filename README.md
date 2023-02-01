@@ -46,6 +46,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello, new blog!](https://douglastofoli.dev/posts/hello-new-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
