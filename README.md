@@ -13,7 +13,7 @@
 
 <br>
 
-- 🛠️ I am currently working at **Solfácil** ☀️
+- 🛠️ I am currently open to work
 
 - 💡 I am learning **Elixir** and **Python**
 
