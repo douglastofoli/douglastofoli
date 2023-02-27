@@ -15,7 +15,7 @@
 
 - 🛠️ I am currently open to work
 
-- 💡 I am learning **Elixir** and **Python**
+- 💡 I am learning **Elixir** and **Phoenix LiveView**
 
 - ✉️ How to contact me: **[LinkedIn](https://www.linkedin.com/in/douglastofoli/)**
 
