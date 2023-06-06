@@ -47,8 +47,8 @@ At the beginning of my career, I worked in software development, with a focus on
 #### ⭐ Statistics and Languages
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api?username=douglastofoli&show_icons=true&theme=dracula" alt="Statistics" style="width: 100%; height: auto; margin: 10px;"> 
-  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&hide=css,html,blade&theme=dracula" alt="Languages" style="width: 100%; height: auto; margin: 10px;">
+  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api?username=douglastofoli&show_icons=true&theme=dracula" alt="Statistics" style="max-width: 100%; height: auto; margin: 10px;"> 
+  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&hide=css,html,blade&theme=dracula" alt="Languages" style="max-width: 100%; height: auto; margin: 10px;">
 </div>
 
 <br>
