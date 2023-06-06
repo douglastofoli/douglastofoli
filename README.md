@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postgresql-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/jira-2684ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/jenkins-D33834.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="25"/>
 </p>
 
