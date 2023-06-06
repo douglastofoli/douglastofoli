@@ -11,6 +11,8 @@
 
 <h3 align="center">My name is Douglas and I am a Software Engineer.</h3>
 
+<br>
+
 ### 🧑 About Me
 
 At the beginning of my career, I worked in software development, with a focus on PHP and JavaScript. However, over the past two years, I have been intensely dedicated to in-depth study of Elixir, a functional programming language. As a full stack programmer, I have primarily focused my efforts on backend development. I have strong skills in creating RESTful and GraphQL APIs, utilizing both SQL and NoSQL databases.
