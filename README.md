@@ -1,5 +1,5 @@
 <h2>
-  <p align="center" style="display: flex; align-items: center; justify-content: center;">
+  <p align="center">
     Welcome!&nbsp;&nbsp;
     <img align="center"
       src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png" 
