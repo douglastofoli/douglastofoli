@@ -64,18 +64,4 @@ At the beginning of my career, I worked in software development, with a focus on
 
 <br>
 
----
-
-<br>
-
-<div align="center">
-<i>My social networks:</i>
-<br>
-<br>
-  <a href="https://www.linkedin.com/in/douglastofoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/douglastofoli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
-
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglastofoli" alt="douglastofoli" /> </p>
