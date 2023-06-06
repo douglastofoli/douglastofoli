@@ -21,7 +21,7 @@ At the beginning of my career, I worked in software development, with a focus on
 
 - 🛠️ I am currently open to work
 
-- 💡 I am learning **Elixir** and **Phoenix LiveView**
+- 💡 I am learning **Apache Kafka** and **Phoenix LiveView**
 
 - ✉️ How to contact me: **[LinkedIn](https://www.linkedin.com/in/douglastofoli/)**
 
