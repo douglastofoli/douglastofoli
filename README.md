@@ -25,10 +25,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/elixir-674773.svg?&style=for-the-badge&logo=elixir&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/graphql-DE33A6.svg?&style=for-the-badge&logo=graphql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postgresql-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/python-FFD43B.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/> -->
   <img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/jenkins-D33834.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="25"/>
 </p>
