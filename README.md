@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/elixir-674773.svg?&style=for-the-badge&logo=elixir&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/php-787cb5.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/graphql-DE33A6.svg?&style=for-the-badge&logo=graphql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postgresql-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
