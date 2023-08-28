@@ -1,6 +1,6 @@
 <h2>
   <p align="center">
-    Welcome!&nbsp;&nbsp;
+    Hey there, visitor, welcome!&nbsp;&nbsp;
     <img align="center"
       src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png" 
       height="80px"
