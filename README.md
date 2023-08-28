@@ -9,6 +9,8 @@
   </p>
 </h2>
 
+<br> 
+
 <h3 align="center">Software craftsman in a lifelong state of learning.</h3>
 
 <br>
@@ -38,22 +40,31 @@ end
 
 <br> <br>
 
-#### 💡 Public projects I worked on
+### 💡 Public projects I worked on
 
-- [gambiconf](https://github.com/gambiconf/gambiconf.github.io):
+- [gambiconf](https://github.com/gambiconf/gambiconf.github.io): GambiConf is a multilingual, technology-agnostic event. It focuses on the essence of the presented projects and the distinct nature of sessions.
 
 <br> <br>
 
-#### ⭐ Statistics and Languages
+### 💻 I've been working with
 
 <p align="center">
-  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api?username=douglastofoli&show_icons=true&theme=dracula" alt="Statistics" style="max-width: 100%; height: auto; margin: 10px;"> 
-  <img src="https://github-readme-stats-3bcyu11gi-douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&hide=css,html,blade&theme=dracula" alt="Languages" style="max-width: 100%; height: auto; margin: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglastofoli&show_icons=true&hide_title=true&layout=compact&border_radius=8&hide=html,css,javascript&theme=dracula" alt="Top Languages" style="max-width: 100%; height: auto; margin: 10px;"> 
+  </a>
+</p>
+
+### ⭐ My profile stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=douglastofoli&show_icons=true&hide_title=true&border_radius=8&theme=dracula" alt="Languages" style="max-width: 100%; height: auto; margin: 10px;">
+  </a>
 </p>
 
 <br> <br>
 
-#### 📝 Recent blog posts
+### 📝 Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
