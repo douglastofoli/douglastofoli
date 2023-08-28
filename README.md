@@ -56,6 +56,7 @@ end
 #### 📝 Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Automating CRUD Operations with Macros in Elixir](https://douglastofoli.dev/posts/automating-crud-operations-with-macros-in-elixir/)
 - [How My XMonad Works](https://douglastofoli.dev/posts/how-my-xmonad-works/)
 - [Mechanical March Challenge: Learning Golang with the Help of a Nix Flake](https://douglastofoli.dev/posts/exercism-and-the-mechanical-march/)
