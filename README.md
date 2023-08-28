@@ -9,13 +9,33 @@
   </p>
 </h2>
 
-<h3 align="center">My name is Douglas and I am a Software Engineer.</h3>
+<h3 align="center">Software craftsman in a lifelong state of learning.</h3>
+
+> I don't just code; I architect solutions.
 
 <br>
 
-#### 🧑 About Me
+<img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/functional.jpg"
+     alt="Functional way is the right way"
+     height="305px"
+     align="left" />
 
-At the beginning of my career, I worked in software development, with a focus on PHP and JavaScript. However, over the past two years, I have been intensely dedicated to in-depth study of Elixir, a functional programming language. As a full stack programmer, I have primarily focused my efforts on backend development. I have strong skills in creating RESTful and GraphQL APIs, utilizing both SQL and NoSQL databases.
+```elixir
+def me do
+  %{
+    name: "Douglas Tofoli",
+    pronouns: ~w(he him),
+    age: 25,
+    work_place: "World",
+    interests: ~w(functional_programming open_source emacs nix),
+    languages: ~w(portuguese english)
+  }
+end
+```
+
+<br> <br>
+
+#### 💡 Public projects I worked on
 
 <br>
 
@@ -54,7 +74,9 @@ At the beginning of my career, I worked in software development, with a focus on
 <br>
 
 #### :pencil: Recent blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Automating CRUD Operations with Macros in Elixir](https://douglastofoli.dev/posts/automating-crud-operations-with-macros-in-elixir/)
 - [How My XMonad Works](https://douglastofoli.dev/posts/how-my-xmonad-works/)
 - [Mechanical March Challenge: Learning Golang with the Help of a Nix Flake](https://douglastofoli.dev/posts/exercism-and-the-mechanical-march/)
