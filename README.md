@@ -38,13 +38,13 @@ def me do
 end
 ```
 
-<br> <br>
+<br><br>
 
 ### 💡 Public projects I worked on
 
 - [gambiconf](https://github.com/gambiconf/gambiconf.github.io): GambiConf is a multilingual, technology-agnostic event. It focuses on the essence of the presented projects and the distinct nature of sessions.
 
-<br> <br>
+<br><br>
 
 ### 💻 I've been working with
 
@@ -62,7 +62,7 @@ end
   </a>
 </p>
 
-<br> <br>
+<br><br>
 
 ### 📝 Recent blog posts
 
