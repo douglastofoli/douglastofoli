@@ -43,6 +43,7 @@ end
 ### 💡 Public projects I worked on
 
 - [gambiconf](https://github.com/gambiconf/gambiconf.github.io): GambiConf is a multilingual, technology-agnostic event. It focuses on the essence of the presented projects and the distinct nature of sessions.
+- [pescarte](https://github.com/peapescarte/pescarte-plataforma): The Pescarte Project is a mitigation measure required by the federal environmental licensing conducted by IBAMA.
 
 <br><br>
 
