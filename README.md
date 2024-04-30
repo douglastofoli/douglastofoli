@@ -11,7 +11,7 @@
 
 <br> 
 
-<h3 align="center">Software craftsman in a lifelong state of learning.</h3>
+<h3 align="center">A software craftsman committed to lifelong learning.</h3>
 
 <br>
 
