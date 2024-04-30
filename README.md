@@ -29,10 +29,10 @@ def me do
   %{
     name: "Douglas Tofoli",
     pronouns: ~w(he him),
-    age: 25,
+    age: 26,
     work_place: "World",
-    work_with: ~w(elixir graphql kafka postgresql php typescript),
-    interests: ~w(functional_programming open_source emacs nix),
+    work_with: ~w(elixir graphql kafka postgresql),
+    interests: ~w(functional_programming open_source emacs nvim nix),
     languages: ~w(portuguese english)
   }
 end
