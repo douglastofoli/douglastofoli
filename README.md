@@ -31,8 +31,8 @@ def me do
     pronouns: ~w(he him),
     age: 26,
     work_place: "World",
-    work_with: ~w(elixir graphql kafka postgresql),
-    interests: ~w(functional_programming open_source emacs nvim nix),
+    work_with: ~w(elixir phoenix graphql postgresql),
+    interests: ~w(functional_programming open_source helix nix),
     languages: ~w(portuguese english)
   }
 end
