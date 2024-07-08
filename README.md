@@ -51,7 +51,7 @@ end
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglastofoli&show_icons=true&hide_title=true&layout=compact&border_radius=8&hide=html,css,javascript&theme=dracula" alt="Top Languages" style="max-width: 100%; height: auto; margin: 10px;"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglastofoli&show_icons=true&hide_title=true&layout=compact&border_radius=8&hide=html,css,javascript&theme=dracula" alt="Top Languages" style="max-width: 100%; margin: 10px;"> 
   </a>
 </p>
 
