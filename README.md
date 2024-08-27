@@ -44,6 +44,7 @@ end
 
 - [gambiconf](https://github.com/gambiconf/gambiconf.github.io): GambiConf is a multilingual, technology-agnostic event. It focuses on the essence of the presented projects and the distinct nature of sessions.
 - [pescarte](https://github.com/peapescarte/pescarte-plataforma): The Pescarte Project is a mitigation measure required by the federal environmental licensing conducted by IBAMA.
+- [storage-ex](https://github.com/zoedsoupe/storage-ex): Elixir client to interact with Supabase Storage 
 
 <br><br>
 
