@@ -19,11 +19,6 @@
 
 <br>
 
-<img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/functional.jpg"
-     alt="Functional way is the right way"
-     height="305px"
-     align="left" />
-
 ```elixir
 def me do
   %{
