@@ -26,7 +26,7 @@ def me do
     pronouns: ~w(he him),
     age: 27,
     work_place: "World",
-    work_with: ~w(elixir),
+    work_with: ~w(elixir java),
     interests: ~w(functional_programming open_source emacs helix nix),
     languages: ~w(portuguese english)
   }
