@@ -1,67 +1,53 @@
-<h2>
-  <p align="center">
-    Hello, visitor! Welcome to my profile!&nbsp;&nbsp;
-    <img align="center"
-      src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png" 
-      height="80px"
-      alt="Pikachu said welcome!"
-    />
-  </p>
-</h2>
+<h2 align="center">  
+  Hello, visitor! Welcome to my profile! 👋  
+</h2>  
+  
+<p align="center">  
+  <img src="https://github.com/douglastofoli/douglastofoli/blob/main/assets/pikachu.png"   
+       height="80px"   
+       alt="Pikachu says welcome!" />  
+</p>  
+  
+---
 
-<br> 
+### 👨‍💻 About Me  
+  
+I'm **Douglas Tofoli**, a passionate developer dedicated to crafting elegant and functional solutions. At 27 years old, I'm an enthusiast of **functional programming**, **open source**, and tools like **Emacs**, **Helix**, and **Nix**. My goal is to build software that makes a difference while continuously learning and sharing knowledge.  
+  
+> *"I don't just write code; I architect solutions."*
 
-<h3 align="center">A software craftsman committed to lifelong learning.</h3>
+#### 🛠️ Technologies and Tools I Use:  
+- Languages: **Elixir**, **Java**  
+- Interests: **Functional Programming**, **Open Source**, **Nix**  
+- Languages I Speak: **Portuguese**, **English**  
+  
+---
 
-<br>
+### 💡 Public Projects  
+  
+Here are some projects I've worked on and am proud to share:  
+  
+- **[GambiConf](https://github.com/gambiconf/gambiconf.github.io)**: A multilingual, technology-agnostic event focused on the essence of the presented projects.  
+- **[Pescarte](https://github.com/peapescarte/pescarte-plataforma)**: A mitigation project required by IBAMA as part of federal environmental licensing.  
+- **[Storage-Ex](https://github.com/zoedsoupe/storage-ex)**: An Elixir client to interact with Supabase Storage.  
+  
+---
 
-> I don't just code; I architect solutions.
+### 📊 GitHub Stats  
+  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglastofoli&show_icons=true&hide_title=true&layout=compact&border_radius=8&hide=html,css,javascript&theme=dracula" alt="Top Languages" style="max-width: 100%; margin: 10px;">   
+</p>  
+  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=douglastofoli&show_icons=true&hide_title=true&border_radius=8&theme=dracula" alt="Profile Stats" style="max-width: 100%; height: auto; margin: 10px;">  
+</p>  
+  
+---
 
-<br>
-
-```elixir
-def me do
-  %{
-    name: "Douglas Tofoli",
-    pronouns: ~w(he him),
-    age: 27,
-    work_place: "World",
-    work_with: ~w(elixir java),
-    interests: ~w(functional_programming open_source emacs helix nix),
-    languages: ~w(portuguese english)
-  }
-end
-```
-
-<br><br>
-
-### 💡 Public projects I worked on
-
-- [gambiconf](https://github.com/gambiconf/gambiconf.github.io): GambiConf is a multilingual, technology-agnostic event. It focuses on the essence of the presented projects and the distinct nature of sessions.
-- [pescarte](https://github.com/peapescarte/pescarte-plataforma): The Pescarte Project is a mitigation measure required by the federal environmental licensing conducted by IBAMA.
-- [storage-ex](https://github.com/zoedsoupe/storage-ex): Elixir client to interact with Supabase Storage.
-
-<br><br>
-
-### 💻 I've been working with
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglastofoli&show_icons=true&hide_title=true&layout=compact&border_radius=8&hide=html,css,javascript&theme=dracula" alt="Top Languages" style="max-width: 100%; margin: 10px;"> 
-  </a>
-</p>
-
-### ⭐ My profile stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=douglastofoli&show_icons=true&hide_title=true&border_radius=8&theme=dracula" alt="Languages" style="max-width: 100%; height: auto; margin: 10px;">
-  </a>
-</p>
-
-<br><br>
-
-### 📝 Recent blog posts
+### 📝 Recent Blog Posts  
+  
+I enjoy sharing what I learn on my blog. Here are some of my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Automating CRUD Operations with Macros in Elixir](https://douglastofoli.dev/posts/automating-crud-operations-with-macros-in-elixir/)
@@ -70,3 +56,10 @@ end
 - [Using Nix for Productivity](https://douglastofoli.dev/posts/using-nix-for-productivity/)
 - [About Me](https://douglastofoli.dev/about/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🌐 Let's Connect!  
+  
+- **Blog**: [douglastofoli.dev](https://douglastofoli.dev)  
+- **LinkedIn**: [Douglas Tofoli](https://www.linkedin.com/in/douglastofoli/) 
