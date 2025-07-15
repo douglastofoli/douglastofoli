@@ -12,24 +12,24 @@
 
 ### 👨‍💻 About Me  
   
-I'm **Douglas Tofoli**, a passionate developer dedicated to crafting elegant and functional solutions. At 27 years old, I'm an enthusiast of **functional programming**, **open source**, and tools like **Emacs**, **Helix**, and **Nix**. My goal is to build software that makes a difference while continuously learning and sharing knowledge.  
+I'm **Douglas Tofoli**, a software engineer focused on building maintainable and efficient systems. I'm 27 and have a strong interest in **functional programming**, **open source**, and reproducible development environments using tools like **Emacs**, **Helix**, and **Nix**.  
   
 > *"I don't just write code; I architect solutions."*
 
-#### 🛠️ Technologies and Tools I Use:  
-- Languages: **Elixir**, **Java**  
-- Interests: **Functional Programming**, **Open Source**, **Nix**  
-- Languages I Speak: **Portuguese**, **English**  
+#### 🛠️ Technologies and Tools  
+- Main Languages: **Elixir**, **Java**  
+- Focus Areas: **Functional Programming**, **Open Source**, **Developer Tooling**  
+- Spoken Languages: **Portuguese**, **English**  
   
 ---
 
-### 💡 Public Projects  
+### 💡 Featured Projects  
   
-Here are some projects I've worked on and am proud to share:  
+Some projects I've contributed to or maintained:  
   
-- **[GambiConf](https://github.com/gambiconf/gambiconf.github.io)**: A multilingual, technology-agnostic event focused on the essence of the presented projects.  
-- **[Pescarte](https://github.com/peapescarte/pescarte-plataforma)**: A mitigation project required by IBAMA as part of federal environmental licensing.  
-- **[Storage-Ex](https://github.com/zoedsoupe/storage-ex)**: An Elixir client to interact with Supabase Storage.  
+- **[GambiConf](https://github.com/gambiconf/gambiconf.github.io)** – A multilingual, language-agnostic tech event centered on project essence.  
+- **[Pescarte](https://github.com/peapescarte/pescarte-plataforma)** – A platform developed for a mitigation initiative under federal environmental licensing.  
+- **[Storage-Ex](https://github.com/zoedsoupe/storage-ex)** – A lightweight Elixir client for Supabase Storage.  
   
 ---
 
@@ -45,9 +45,9 @@ Here are some projects I've worked on and am proud to share:
   
 ---
 
-### 📝 Recent Blog Posts  
+### 📝 Latest Blog Posts  
   
-I enjoy sharing what I learn on my blog. Here are some of my latest articles:
+I write about tools, workflows, and experiments in software development:
 
 <!-- BLOG-POST-LIST:START -->
 - [Automating CRUD Operations with Macros in Elixir](https://douglastofoli.dev/posts/automating-crud-operations-with-macros-in-elixir/)
@@ -59,7 +59,7 @@ I enjoy sharing what I learn on my blog. Here are some of my latest articles:
 
 ---
 
-### 🌐 Let's Connect!  
+### 🌐 Find Me Online  
   
 - **Blog**: [douglastofoli.dev](https://douglastofoli.dev)  
-- **LinkedIn**: [Douglas Tofoli](https://www.linkedin.com/in/douglastofoli/) 
+- **LinkedIn**: [Douglas Tofoli](https://www.linkedin.com/in/douglastofoli/)  
