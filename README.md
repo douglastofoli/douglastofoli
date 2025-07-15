@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me  
   
-I'm **Douglas Tofoli**, a software engineer focused on building maintainable and efficient systems. I'm 27 and have a strong interest in **functional programming**, **open source**, and reproducible development environments using tools like **Emacs**, **Helix**, and **Nix**.  
+I'm **Douglas Tofoli**, a software engineer focused on building maintainable and efficient systems. I'm 27 and have a strong interest in **functional programming**, **open source**, and reproducible development environments using tools like **Nix** and **Helix**.  
   
 > *"I don't just write code; I architect solutions."*
 
