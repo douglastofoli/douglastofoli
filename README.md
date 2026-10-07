@@ -17,7 +17,7 @@ I'm **Douglas Tofoli**, a software engineer focused on building maintainable and
 > *"I don't just write code; I architect solutions."*
 
 #### 🛠️ Technologies and Tools  
-- Main Languages: **Elixir**, **Java**  
+- Main Language: **Elixir**  
 - Focus Areas: **Functional Programming**, **Open Source**, **Developer Tooling**  
 - Spoken Languages: **Portuguese**, **English**  
   
