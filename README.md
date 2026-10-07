@@ -50,11 +50,9 @@ Some projects I've contributed to or maintained:
 I write about tools, workflows, and experiments in software development:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating CRUD Operations with Macros in Elixir](https://douglastofoli.dev/posts/automating-crud-operations-with-macros-in-elixir/)
-- [How My XMonad Works](https://douglastofoli.dev/posts/how-my-xmonad-works/)
-- [Mechanical March Challenge: Learning Golang with the Help of a Nix Flake](https://douglastofoli.dev/posts/exercism-and-the-mechanical-march/)
-- [Using Nix for Productivity](https://douglastofoli.dev/posts/using-nix-for-productivity/)
-- [About Me](https://douglastofoli.dev/about/)
+- [Why I Go to the Gym Even on Saturdays](https://douglastofoli.dev/blog/why-i-go-to-the-gym-even-on-saturdays/)
+- [Incremental Responsiveness: Improving an Astro Blog for Mobile](https://douglastofoli.dev/blog/incremental-responsive-blog/)
+- [Using Nix for Productivity](https://douglastofoli.dev/blog/using-nix-for-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
