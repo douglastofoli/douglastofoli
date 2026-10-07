@@ -16,5 +16,5 @@ jobs:
       - name: Pull in douglastofoli.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://douglastofoli.dev/index.xml"
+          feed_list: "https://douglastofoli.dev/rss.xml"
           readme_path: "./README.md"
